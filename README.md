@@ -1,4 +1,4 @@
-# 🌺 Proyecto Web: Turismo y Sostenibilidad en Hawái
+# 🌺 Proyecto Web: Turismo y Sostenibilidad en Hawai
 
 Este proyecto es una página web educativa y turística enfocada en la promoción de sitios emblemáticos en Hawái y la concienciación sobre una problemática social relevante relacionada con los Objetivos de Desarrollo Sostenible (ODS).
 
